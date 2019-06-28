@@ -122,6 +122,11 @@ nav ul li a.current {
 	align-content: stretch;
 }
 
+.photos img {
+	width: calc(100%/2);
+	height: calc(100%/2);
+}
+
 /* ************************************************** quote */
 .quote {
 	background-color: #58d4ba;
@@ -197,16 +202,55 @@ input[type="submit"]:hover {
 
 /* ************************************************** media queries */
 
-@media screen and (min-width: 481px) {
+@media screen and (max-width: 700px) {
+	nav {
+		flex-direction: column;
+		justify-content: center;
+	}
+
+	nav .logo {
+		font-size: 6rem;
+		padding-bottom: 1.5rem;
+	}
+
+	nav ul {
+		display: none;
+	}
 	.photos img {
-		width: calc(100%/2);
-		height: calc(100%/2);
+		width: 100%;
+		height: 100%;
 	}
 }
 
 @media screen and (max-width: 481px) {
-	.photos img {
-		width: 100%;
-		height: 100%;
+	nav {
+		padding: 1rem 3rem;
+	}
+
+	nav .logo {
+		font-size: 4rem;
+		padding-bottom: 1rem;
+	}
+
+	.title-content a {
+		font-size: 1.6rem;
+	}
+
+	.quote {
+		padding: 3rem 4rem;
+		font-size: 2.5rem;
+	}
+
+	#about {
+		padding: 3rem 4rem;
+		font-size: 2.5rem;
+	}
+
+	#about p {
+		text-align: center;
+	}
+
+	#contact label {
+		font-size: 1.6rem;
 	}
 }
