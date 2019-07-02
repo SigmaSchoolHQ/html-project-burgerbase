@@ -4,9 +4,11 @@ The project is designed for beginners to tackle a medium sized HTML focused proj
 
 We will build out the complete HTML markup structure for this [finished project](https://codepen.io/SymposiumSchool/pen/xoEEpz?editors=1000) from scratch. **Note: There is some CSS & JavaScript also included in the project but that has been pre-written.**
 
-This project is covered over a tw video walkthrough:
-[Part 1:](https://youtu.be/jD5PZQbZ380) 
-[Part 2:](https://youtu.be/sn9as7zhr0U)
+This project is covered over a two video walkthrough:
+
+[Part 1](https://youtu.be/jD5PZQbZ380)
+
+[Part 2](https://youtu.be/sn9as7zhr0U)
 
 ## To Get Started
 
