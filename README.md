@@ -20,4 +20,6 @@ This project is covered over a two part video walkthrough:
 
 ## Objectives:
 
-The objective is to increase your knowledge by giving you the opportunity to consolidate the principles learned throughout the HTML series of videos thius far.
+The objective is to increase your knowledge by giving you the opportunity to consolidate the principles learned throughout the HTML series of videos thus far.
+
+Watch the entire series of HTML videos [HERE](https://www.youtube.com/playlist?list=PL4cTxE4s2XIYJL6uPQUwMt25M70gPl-O6)
