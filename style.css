@@ -81,7 +81,7 @@ nav ul li a.current {
 
 /* ************************************************** header */
 #title {
-	background: url('img/img-1.png') no-repeat center center/cover;
+	background: url('img/img-1.jpg') no-repeat center center/cover;
 	height: 100vh;
 	display: flex;
 	flex-direction: column;
